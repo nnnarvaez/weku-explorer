@@ -2,9 +2,9 @@ const SBD = 'WKD'
 const STEEM = 'WEKU'
 const SP = 'WP'
 const VESTS = 'VESTS'
-const RPC_NODE = { url: 'https://dev.weku.io', useAppbaseApi:true  }
-// const RPC_NODE = { url: 'https://standby.weku.io:8190', useAppbaseApi:true  }
-const HARDFORK = 20
+//const RPC_NODE = { url: 'https://dev.weku.io', useAppbaseApi:true  }
+const RPC_NODE = { url: 'https://dallas.weku.io:8190', useAppbaseApi:true  }
+const HARDFORK = 22
 
 const STEEM_100_PERCENT = 10000
 const STEEM_VOTE_REGENERATION_SECONDS = 5*24*60*60
