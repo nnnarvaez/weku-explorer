@@ -11,6 +11,8 @@ sudo apt-get install git nano screen
 cd ~
 
 git clone https://github.com/nnnarvaez/weku-explorer.git 
+
+cd weku-explorer/
 ```
 
 ## Config
