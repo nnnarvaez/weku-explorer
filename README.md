@@ -3,12 +3,23 @@ Steem explorer is a client-side block explorer for steem-like blockchains. It us
 
 ![](https://cdn.steemitimages.com/DQmbHSzTWPQHwZkFJr185z3P7ZQhwVZtWDPmS8y37Gm9HuG/image.png)
 
+## Clone
+``` bash
+
+sudo apt-get install git nano screen
+
+cd ~
+
+git clone https://github.com/nnnarvaez/weku-explorer.git 
+```
+
 ## Config
 Change the configuration file `src/config.js` with the symbols and rpc_node of the blockchain.
 
 ## Build Setup
 
 ``` bash
+
 # install dependencies
 npm install
 
